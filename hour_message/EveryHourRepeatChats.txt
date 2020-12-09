@@ -1,0 +1,10 @@
+account= <api_id>, <api_hash>, <phone_number>
+
+messageStart
+'Here your message'
+messageEnd
+
+'Here chats username. One username on one line, no @ or any other signs'
+
+example1
+example2
